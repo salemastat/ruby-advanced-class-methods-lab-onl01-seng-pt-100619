@@ -44,6 +44,8 @@ class Song
     @@all.sort{ |a,b| a.name <=> b.name }
   end 
   
+  def 
+  
 end
 
 
